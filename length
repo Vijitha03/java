@@ -1,0 +1,8 @@
+public class length {
+public static void main(String[] args)
+  {  
+    String str = "I am bored of my same loop life";
+    int len = str.length();
+    System.out.println("The string length of '"+str+"' is: "+len);
+   }
+}
